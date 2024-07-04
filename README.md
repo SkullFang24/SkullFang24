@@ -1,42 +1,42 @@
-# Welcome to My GitHub Profile!
+# Welcome to My GitHub Profile! 🎮💻
 
 ## About Me
 
 Hello! I'm a passionate computer scientist with a deep love for game development. My journey in the tech world has led me to explore various programming languages, frameworks, and tools that aid in creating interactive and engaging digital experiences.
 
-## Programming Languages
+## 🚀 Programming Languages
 
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-- ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-- ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+- <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="44" height="44"/> 
+- <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="44" height="44"/> 
+- <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="44" height="44"/> 
+- <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native" width="44" height="44"/>  
+- <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="44" height="44"/> 
+- <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="44" height="44"/> 
+- <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="44" height="44"/> 
+- <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium" width="44" height="44"/> 
 
-## Skills & Tools
+## 🛠️ Skills & Tools
 
-- **Game Development Engines:**
-  - ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-  - ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+### Game Development Engines
+- <img src="https://cdn.icon-icons.com/icons2/233/PNG/512/Unity_26208.png" alt="Unity" width="44" height="44"/> 
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="Godot" width="44" height="44"/> 
 
-- **3D Modeling & Animation:**
-  - ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+### 3D Modeling & Animation
+- <img src="https://img.icons8.com/color/48/000000/blender-3d.png" alt="Blender" width="44" height="44"/> 
 
-- **Development Environments:**
-  - ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  - ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+### Development Environments
+- <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="44" height="44"/>  
+- <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png" alt="Android Studio" width="44" height="44"/>
+  
+### Automation
+- <img src="https://img.icons8.com/fluency/48/000000/robot.png" alt="Automation Bots" width="44" height="44"/> 
 
-- **Automation:**
-  - ![Automation Bots](https://img.shields.io/badge/Automation_Bots-ff9e0f?style=for-the-badge&logo=robotframework&logoColor=white)
-
-
-## Projects
+## 📁 Projects
 
 Here you'll find a collection of my projects, ranging from game development to automation scripts. Each project is a testament to my dedication and passion for creating efficient, creative, and functional software.
 
-## Get in Touch
+## 📫 Get in Touch
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or if you'd like to collaborate on a project. You can connect with me via [LinkedIn](https://www.linkedin.com/in/annas-farrukh-995764316/).
 
+Happy coding! 🎉
