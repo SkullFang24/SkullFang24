@@ -25,7 +25,7 @@ Hello! I'm a passionate computer scientist with a deep love for game development
 - <img src="https://img.icons8.com/color/48/000000/blender-3d.png" alt="Blender" width="44" height="44"/> 
 
 ### Development Environments
-- <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="44" height="44"/>  
+- <img src="https://img.icons8.com/ios-filled/50/000000/unity.png" alt="Visual Studio Code" width="44" height="44"/>  
 - <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png" alt="Android Studio" width="44" height="44"/>
   
 ### Automation
