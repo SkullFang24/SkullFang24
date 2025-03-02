@@ -18,7 +18,7 @@ Hello! I'm a passionate computer scientist with a deep love for game development
 ## 🛠️ Skills & Tools
 
 ### Game Development Engines
-- <img src="https://icon-icons.com/icon/unity-logo/214660" alt="Unity" width="44" height="44"/> 
+- <img src="https://www.flaticon.com/free-icon/unity_5969347?term=unity&page=1&position=5&origin=search&related_id=5969347" alt="Unity" width="44" height="44"/> 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="Godot" width="44" height="44"/> 
 
 ### 3D Modeling & Animation
