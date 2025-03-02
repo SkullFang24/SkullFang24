@@ -18,14 +18,14 @@ Hello! I'm a passionate computer scientist with a deep love for game development
 ## 🛠️ Skills & Tools
 
 ### Game Development Engines
-- <img src="https://www.flaticon.com/free-icon/unity_5969347?term=unity&page=1&position=5&origin=search&related_id=5969347" alt="Unity" width="44" height="44"/> 
+- <img src="https://cdn.icon-icons.com/icons2/233/PNG/512/Unity_26208.png" alt="Unity" width="44" height="44"/> 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="Godot" width="44" height="44"/> 
 
 ### 3D Modeling & Animation
 - <img src="https://img.icons8.com/color/48/000000/blender-3d.png" alt="Blender" width="44" height="44"/> 
 
 ### Development Environments
-- <img src="https://img.icons8.com/ios-filled/50/000000/unity.png" alt="Visual Studio Code" width="44" height="44"/>  
+- <img src="" alt="Visual Studio Code" width="44" height="44"/>  
 - <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png" alt="Android Studio" width="44" height="44"/>
   
 ### Automation
