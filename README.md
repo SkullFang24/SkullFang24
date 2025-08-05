@@ -39,7 +39,7 @@ Here you'll find a collection of my projects, ranging from game development to a
 ## 📫 Get in Touch
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or if you'd like to collaborate on a project.
-You can connect with me via [LinkedIn](https://www.linkedin.com/in/annas-farrukh-995764316/).
+You can connect with me via [LinkedIn](https://www.linkedin.com/in/annas-janjua-995764316/).
 OR
 Send me an [Email](adore.annas@gmail.com).
 
